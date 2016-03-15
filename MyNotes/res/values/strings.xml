@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyNotes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text">Text</string>
+    <string name="img">Img</string>
+    <string name="video">Video</string>
+    <string name="list">List</string>
+    <string name="action_settings">Settings</string>
+    <string name="lst_img">Lst_Img</string>
+    <string name="lst_video">Lst_Video</string>
+    <string name="lst_text">Lst_Text</string>
+    <string name="lst_content">Lst_Content</string>
+    <string name="lst_time">Lst_Time</string>
+    <string name="e_Text">E_Text</string>
+    <string name="e_img">E_img</string>
+    <string name="e_video">E_video</string>
+    <string name="e_save"></string>
+    <string name="e_cancel"></string>
+    <string name="s_Text">S_Text</string>
+    <string name="s_video">S_Video</string>
+    <string name="s_image">S_Image</string>
+    <string name="s_time">S_Time</string>
+    <string name="s_back">S_Back</string>
+    <string name="s_delete">S_Delete</string>
+</resources>
